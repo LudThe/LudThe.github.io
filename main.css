@@ -8,11 +8,11 @@ body {
 }
 
 #wrapper{
-     margin-bottom: 300px; 
-     width: 100%;
-     display: flex;
-     flex-wrap: wrap;
-     justify-content: center;
+    margin-top: 120px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 #box {
